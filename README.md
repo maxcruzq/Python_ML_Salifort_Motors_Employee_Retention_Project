@@ -30,14 +30,16 @@ This is also a good section to add visualizations of your exploratory data analy
 
 The dataset will be using contains 15,000 rows and 10 columns for the following variables:
 
-![Captura de Pantalla 2023-06-05 a la(s) 10 33 37](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/74fe6e6f-d2f7-4b8b-83d9-55826deaa0a4)
+![Captura de Pantalla 2023-06-05 a la(s) 11 42 47](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/97e4cde1-0ae2-4a2e-a7a0-226f91ef0909)
+
 
 
 Some initial observation on the data: 
 - Variables are categorical but are in numerical type. 
 - Some name columns are not in the expected format and have some misspellings. 
 
-![Captura de Pantalla 2023-06-05 a la(s) 11 35 32](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/cc68935d-a49a-442c-b65a-ba035dd7edf4)
+![Captura de Pantalla 2023-06-05 a la(s) 11 41 35](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/6c4542a2-eb29-4cda-a44e-e82c5beb5918)
+
 
 
 ![Captura de Pantalla 2023-06-05 a la(s) 10 58 24](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/93b8fc0a-b50c-4a09-adea-45c2c2038b36)
