@@ -36,6 +36,7 @@ Some initial observation on the data:
 - Some name columns are not in the expected format and have some misspellings. 
 
 ![Captura de Pantalla 2023-06-05 a la(s) 10 58 04](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/8d148099-8594-45df-8712-7a9071e00b9a)
+
 ![Captura de Pantalla 2023-06-05 a la(s) 10 58 24](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/93b8fc0a-b50c-4a09-adea-45c2c2038b36)
 
 
@@ -53,42 +54,63 @@ Some initial observation on the data:
   ![Captura de Pantalla 2023-06-05 a la(s) 10 59 41](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/85125c68-240d-4ef2-ba1b-c3c4795e7b2e)
 
   
+  
 - Ethical consideration: the model could be missused. For example, the model predicts that a employee will leave, so the company decides to start taking some responsabilities or outcasting them instead of giving that person more incentives. The model also can have false results so we must be very clear about that.
 
 ## Modeling Evaluation
-This section should detail what models you used and the corresponding evaluation metrics. 
 
 #### Logistic Regression
 
 The logistic regression model achieved the following wighter average scores, on the test set:
-- Precision = 80%
-- Recall = 83%
-- F1-score = 80% 
-- Accuracy = 83%
 
 
-Feature Importance:
+![Captura de Pantalla 2023-06-05 a la(s) 11 29 42](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/6d8dc0a3-fc67-4788-976b-1fc21b750092)
+
+
+
+![Captura de Pantalla 2023-06-05 a la(s) 11 08 28](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/8c49009e-8fa3-49de-af30-b3f0f0fc6b8c)
+
+
+
+
+#### Decision-tree based model
+
+
+![Captura de Pantalla 2023-06-05 a la(s) 11 12 51](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/1c2eb484-2f1f-45b5-97e3-0828ee9183d6)
+
+
+
+Scores
+
+![Captura de Pantalla 2023-06-05 a la(s) 11 22 47](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/6f34e88d-df0d-4f79-807a-8b90f4bf870b)
+
+
+Features Importance:
 
 ![Captura de Pantalla 2023-06-05 a la(s) 10 44 12](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/ac2e6ddf-eaa0-4965-9eae-598bb29e0a1f)
 
 
-#### Tree-based Machine Learning
 
-After conducting feature engineering, the decision tree model achieved the following results on the test set: 
-- AUC: 94.3% 
-- Precision: 86.5%
-- Recall: 91.5%
-- F1-score: 88.9%
-- Accuracy: 96.2%
+#### Random Forest
+
+Scores
+
+##### The random forest model slightly outperformed the decision tree model.
+
+![Captura de Pantalla 2023-06-05 a la(s) 11 17 51](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/d5020733-d984-4aa4-ab5c-3a3add0a077b)
 
 
-Feature Importance:
+Features Importance:
 
 ![Captura de Pantalla 2023-06-05 a la(s) 10 44 34](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/e90d0ddd-6f6c-41e5-baf6-0f5b32782afd)
 
 
 
-##### The random forest model slightly outperformed the decision tree model.
+On the test set, the Random Forest model, performed as follows:
+
+![Captura de Pantalla 2023-06-05 a la(s) 11 19 29](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/32ef5f3a-9f6c-43c3-8cb9-dbb8f83cb891)
+
+![Captura de Pantalla 2023-06-05 a la(s) 11 12 39](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/9ff0ef38-19c6-455d-bd36-76dc4ec1a2eb)
 
 ## Conclusion
 
