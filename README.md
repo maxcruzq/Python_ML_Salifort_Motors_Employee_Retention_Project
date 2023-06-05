@@ -1,4 +1,4 @@
-# Python_ML_Salifort_Motors_Employee_Retention_Project
+# Python Machine Learning Salifort Motors Employee Retention Project
 
 ## Overview
 A project overview should be a few sentences long stating the problem you solved, what data was used in the project, 
@@ -98,11 +98,10 @@ Features Importance:
 
 Scores
 
-##### The random forest model slightly outperformed the decision tree model.
+The random forest model slightly outperformed the decision tree model.
 
 ![Captura de Pantalla 2023-06-05 a la(s) 11 17 51](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/d5020733-d984-4aa4-ab5c-3a3add0a077b)
 
-##### The random forest model slightly outperformed the decision tree model.
 
 Features Importance:
 
@@ -110,7 +109,7 @@ Features Importance:
 
 
 
-On the test set, the Random Forest model, performed as follows:
+On the test set, the Random Forest model performed as follows:
 
 ![Captura de Pantalla 2023-06-05 a la(s) 11 19 29](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/32ef5f3a-9f6c-43c3-8cb9-dbb8f83cb891)
 
