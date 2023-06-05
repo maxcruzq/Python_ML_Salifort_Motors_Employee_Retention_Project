@@ -30,12 +30,15 @@ This is also a good section to add visualizations of your exploratory data analy
 
 The dataset will be using contains 15,000 rows and 10 columns for the following variables:
 
+![Captura de Pantalla 2023-06-05 a la(s) 10 33 37](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/74fe6e6f-d2f7-4b8b-83d9-55826deaa0a4)
+
 
 Some initial observation on the data: 
 - Variables are categorical but are in numerical type. 
 - Some name columns are not in the expected format and have some misspellings. 
 
-![Captura de Pantalla 2023-06-05 a la(s) 10 58 04](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/8d148099-8594-45df-8712-7a9071e00b9a)
+![Captura de Pantalla 2023-06-05 a la(s) 11 35 32](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/cc68935d-a49a-442c-b65a-ba035dd7edf4)
+
 
 ![Captura de Pantalla 2023-06-05 a la(s) 10 58 24](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/93b8fc0a-b50c-4a09-adea-45c2c2038b36)
 
@@ -99,6 +102,7 @@ Scores
 
 ![Captura de Pantalla 2023-06-05 a la(s) 11 17 51](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/d5020733-d984-4aa4-ab5c-3a3add0a077b)
 
+##### The random forest model slightly outperformed the decision tree model.
 
 Features Importance:
 
