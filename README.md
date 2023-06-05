@@ -83,12 +83,12 @@ The logistic regression model achieved the following wighter average scores, on 
 
 
 
-Scores
+Scores:
 
 ![Captura de Pantalla 2023-06-05 a la(s) 11 22 47](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/6f34e88d-df0d-4f79-807a-8b90f4bf870b)
 
 
-Features Importance:
+Features Importances:
 
 ![Captura de Pantalla 2023-06-05 a la(s) 10 44 12](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/ac2e6ddf-eaa0-4965-9eae-598bb29e0a1f)
 
@@ -96,14 +96,14 @@ Features Importance:
 
 #### Random Forest
 
-Scores
+Scores:
 
 The random forest model slightly outperformed the decision tree model.
 
 ![Captura de Pantalla 2023-06-05 a la(s) 11 17 51](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/d5020733-d984-4aa4-ab5c-3a3add0a077b)
 
 
-Features Importance:
+Features Importances:
 
 ![Captura de Pantalla 2023-06-05 a la(s) 10 44 34](https://github.com/maxcruzq/Python_ML_Salifort_Motors_Employee_Retention_Project/assets/132103792/e90d0ddd-6f6c-41e5-baf6-0f5b32782afd)
 
