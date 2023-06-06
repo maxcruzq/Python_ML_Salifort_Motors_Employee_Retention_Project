@@ -1,5 +1,7 @@
 # Python Machine Learning Salifort Motors Employee Retention Project
 
+#### The Jupyter Notebook is also available on Kaggle in the following link [click here to see it in Kaggle](https://www.kaggle.com/code/maxcruz/python-ml-salifort-motors-employee-retention)
+
 ## Overview
 
 - Salifort Motors seeks to improve employee retention and answer the following question:
